@@ -65,7 +65,7 @@ Through this project, we aim to explore how financial contributions and project 
      | donor_name  | varchar   | Name of donor                           |
      | donor_type  | varchar   | individual, foundation, corporate, etc. |
 
-* **ERD Diagram:** <img width="1000" height="500" alt="image" src="https://github.com/user-attachments/assets/635790c7-1ce6-48a4-a82a-a71567c1124b" />
+* **ERD Diagram:** ![WhatsApp Image 2025-08-26 at 13 27 17_51090f87](https://github.com/user-attachments/assets/324c28d3-44fa-4b3b-8b7f-273ee6f89e5e)
 
 * **Sample preview:**
   
